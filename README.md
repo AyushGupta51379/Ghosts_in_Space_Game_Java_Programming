@@ -11,12 +11,6 @@ Game - Ghosts and Treasures in Space, using Greenfoot graphics for Java Programm
 Climax</br>
 <img src="https://github.com/AyushGupta51379/Ghosts_in_Space_Game_Java_Programming/blob/master/Gameplay___Images/climax.png?raw=true" width="65%" height="65%" />
 
-## Many ghosts
-<img src="https://github.com/AyushGupta51379/Ghosts_in_Space_Game_Java_Programming/blob/master/Gameplay___Images/many_ghosts.png?raw=true" width="65%" height="65%" />
-
-Woah!!</br>
-<img src="https://github.com/AyushGupta51379/Ghosts_in_Space_Game_Java_Programming/blob/master/Gameplay___Images/woah.png?raw=true" width="65%" height="65%" />
-
 # Dead
 
 Kaboom!!</br>
