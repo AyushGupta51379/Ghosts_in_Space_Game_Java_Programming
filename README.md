@@ -25,7 +25,7 @@ Note: All work shown in this repository is for informational use only. Regarding
 
 # Credits
 
-For the features of this game, except coding/programming: All people who have contributed towards Harry Potter books and movie series. APowersoft Screen Recorder for recording screen video and makeagif.com for making the gif of game.
+For the features of this game, except coding/programming: All people who have contributed towards Harry Potter books and movie series. APowersoft Screen Recorder for recording screen video and makeagif.com for converting the video in to gif.
 
 Some part of this project was done during the course COMP 1029J (Java Bridging course) at The Hong Kong University of Science and Technology.
 
